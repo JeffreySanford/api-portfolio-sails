@@ -5,7 +5,7 @@
   "description": "a Sails application",
   "keywords": [],
   "dependencies": {
-    "sails": "^1.5.2",
+    "sails": "^1.5.4",
     "sails-hook-apianalytics": "^2.0.3",
     "sails-hook-organics": "^2.0.0",
     "sails-hook-orm": "^4.0.0",
